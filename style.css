@@ -39,3 +39,20 @@ input{
 .dark .verse{
     background:#222;
 }
+.menu{
+  text-align:center;
+  margin:20px;
+}
+
+.menu button{
+  padding:10px 20px;
+  border:none;
+  border-radius:8px;
+  cursor:pointer;
+}
+
+.rating{
+  text-align:center;
+  margin:20px;
+  font-size:24px;
+}
