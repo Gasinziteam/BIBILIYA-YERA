@@ -1,0 +1,41 @@
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#4b0082;
+    color:white;
+    padding:15px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+.container{
+    padding:20px;
+}
+
+input{
+    width:100%;
+    padding:12px;
+    border-radius:8px;
+    border:1px solid #ccc;
+}
+
+.verse{
+    background:white;
+    margin-top:15px;
+    padding:15px;
+    border-radius:10px;
+}
+
+.dark{
+    background:#121212;
+    color:white;
+}
+
+.dark .verse{
+    background:#222;
+}
